@@ -37,7 +37,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="Dale Kittendorf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dale Kittendorf" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
 
+[linkedin]: https://www.linkedin.com/in/dalerkittendorf/
+[portfolio]: https://github.com/drkittendorf
+
 <br />
+
+---
 
 ###
 <details>
@@ -50,5 +55,4 @@ Here are some ideas to get you started:
 </details>
 
 
-[linkedin]: https://www.linkedin.com/in/dalerkittendorf/
-[portfolio]: https://github.com/drkittendorf
+
