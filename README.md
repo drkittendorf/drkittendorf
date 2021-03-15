@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ###
-   I am Web Developer committed to learning new skills, technologically and team based, to continue my development as a programmer and as a contributing team member. 
+   I am a Web Developer committed to learning new skills, technologically and team based, to continue my development as a programmer and as a contributing team member. 
   Hopefully the projects you see here will reflect some of that desire and continuous growth. Thanks for stopping by! <br>
   Dale
 
