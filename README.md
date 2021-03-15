@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 
 ###
-   I am a Web Developer committed to learning new skills, technologically and team based, to continue my development as a programmer and as a contributing team member. 
-  Hopefully the projects you see here will reflect some of that desire and continuous growth. Thanks for stopping by! <br>
+   I am a Web Developer committed to learning new skills to continue my development as a programmer. 
+  Hopefully the projects you see here will reflect some of that desire and continuous growth. <br>
   Dale
 
 ### Thank You for visiting my GitHub! 
