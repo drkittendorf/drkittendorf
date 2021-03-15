@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-###  Social Media
+## Social Media
 [<img align="left" alt="Dale Kittendorf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dale Kittendorf" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-###
+### GitHub Stats
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Dales's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drkittendorf&show_icons=true&hide_border=true" />
