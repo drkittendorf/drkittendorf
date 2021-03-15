@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###
-   I am a Web Developer committed to learning new skills to continue my development as a programmer. 
+### I am a Web Developer committed to learning new skills to continue my development as a programmer. 
   Hopefully the projects you see here will reflect some of that desire and continuous growth. <br>
  
 
