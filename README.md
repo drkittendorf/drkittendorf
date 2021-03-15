@@ -1,6 +1,9 @@
 ## Greetings! 
-### Thank You for visiting my GitHub! 
-### 👋 I'm Dale and these are my projects.. 
+
+### 👋 I'm Dale and these are my projects...
+
+
+
 
 <!--
 **drkittendorf/drkittendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +24,8 @@ Here are some ideas to get you started:
    I am a Web Developer committed to learning new skills, technologically and team based, to continue my development as a programmer and as a contributing team member. 
   Hopefully the projects you see here will reflect some of that desire and continuous growth. Thanks for stopping by! <br>
   Dale
+
+### Thank You for visiting my GitHub! 
 
 ### Social Media
 [<img align="left" alt="Dale Kittendorf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
