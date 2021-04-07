@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am a Web Developer committed to learning new skills to continue my development as a programmer. 
-### Hopefully the projects you see here will reflect some of that desire and continuous growth.
-### Please feel free to contact me or follow me on my social media listed below.
- 
-
+### I am a Full Stack Web Developer committed to learning while continuing to hone my existing skills.
+### The projects you see here reflect some of that growth and desire to improve.
+### Please feel free to contact me regarding any questions or opportunities.
 ### Thank You for visiting my GitHub! 
 ### Dale
 
