@@ -4,11 +4,12 @@
 
 
 ### I'm a Full Stack Web Developer committed to continuous learning.
-### Find here ideas, concepts, projects, & remanants.
+### Find here: Ideas, Concepts, Projects, & Remnants.
 ### 
 ### Thank You for visiting my GitHub!
-Feel free to look around or contact me about things code related.
 ### Dale
+Feel free to look around or contact me about things code related.
+
 
 <br>
 
