@@ -1,6 +1,6 @@
 ## Greetings! 
 
-⚡ Welcome to my GitHub - oratory... ⚡
+⚡ Welcome to my GitHubRatory... ⚡
 
 
 ### I'm a Full Stack Web Developer committed to continuous learning and honing existing skills.
