@@ -3,10 +3,11 @@
 ### ⚡ | Welcome to my GitHubRatory |⚡
 
 
-### I'm a Full Stack Web Developer committed to continuous learning and honing existing skills.
-### The projects you see here reflect some of that growth and desire to improve.
+### I'm a Full Stack Web Developer committed to continuous learning.
+### Find here ideas, concepts, projects, & remanants.
 ### 
 ### Thank You for visiting my GitHub!
+Feel free to look around or contact me about things code related.
 ### Dale
 
 <br>
