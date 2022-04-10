@@ -1,10 +1,11 @@
 ## ⚡ | Welcome to my GitHubRatory! |⚡
 
 
-### I'm a Full Stack Web Developer committed to continuous learning.
-### Find here: Ideas, Concepts, Projects, & Remnants.
-### 
-### Thank You for visiting my GitHub!
+### I'm 
+###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; into Full Stack Web Development and committed to continuous learning.
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Find here: Ideas, Concepts, Projects, Remnants & codebits.
+###   
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank You for visiting my GitHub!
 ### Dale
 Feel free to look around or contact me about things code related.
 
