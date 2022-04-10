@@ -4,7 +4,7 @@
 
 
 ### I'm a Full Stack Web Developer committed to continuous learning and honing existing skills.
-### The projects you see here reflect some of that growth desire to improve.
+### The projects you see here reflect some of that growth and desire to improve.
 ### 
 ### Thank You for visiting my GitHub! 
 ### Dale
