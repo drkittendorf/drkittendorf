@@ -1,9 +1,15 @@
 ## Greetings! 
 
-### 👋 I'm Dale and these are my projects...
+### ✨  Welcome to my GitHub - oratory... ✨ 
 
 
+### I'm a Full Stack Web Developer committed to continuous learning and honing existing skills.
+### The projects you see here reflect some of that growth desire to improve.
+### 
+### Thank You for visiting my GitHub! 
+### Dale
 
+<br>
 
 <!--
 **drkittendorf/drkittendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 -->
-
-### I am a Full Stack Web Developer committed to learning while continuing to hone my existing skills.
-### The projects you see here reflect some of that growth and desire to improve.
-### Please feel free to contact me regarding any questions or opportunities.
-### Thank You for visiting my GitHub! 
-### Dale
-
-<br>
 
 ---
 
