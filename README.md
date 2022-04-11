@@ -3,7 +3,7 @@
 
 ### I'm into Full Stack Web Development and committed to continuous learning.
 
-### Find here: [ Projects, Concepts, Ideas, Remnants, Codebits] in an "Array" of conditions.
+### Find here = [ Projects, Concepts, Ideas, Remnants, Codebits] in an "Array" of conditions.
 ### 😄
 
 ### Feel free to look around or contact me about things code related.
