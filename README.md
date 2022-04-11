@@ -1,20 +1,23 @@
 ## ⚡ | Welcome to my GitHubRatory! |⚡
 
 
-### I'm 
-###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; into Full Stack Web Development and committed to continuous learning.
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Find here: Ideas, Concepts, Projects, Remnants & codebits.
-###   
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank You for visiting my GitHub!
-### Dale
-Feel free to look around or contact me about things code related.
+### I'm into Full Stack Web Development and committed to continuous learning.
+
+### Find here: [ Projects, Concepts, Ideas, Remnants, Codebits] in an Array of Conditions.
+### 😄
+
+### Feel free to look around or contact me about things code related.
+ 
+### &nbsp; Thanks for stopping by!
+### &nbsp;&nbsp; Dale
+
 
 
 <br>
 
 <!--
 **drkittendorf/drkittendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
